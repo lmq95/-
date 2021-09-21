@@ -13,9 +13,8 @@ header{
 
 .nav-list{
   text-align: center;
-  border-top-width: 1px;
-  border-bottom-width: 1px;
-  border-color: black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
   padding: 15px 0;
   margin: 0 auto;
 
@@ -30,7 +29,6 @@ header{
 }
 .main{
   width: 800px;
-  height: 700px;
   padding: 50px 0;
   margin: 0 auto;
   display: flex;
